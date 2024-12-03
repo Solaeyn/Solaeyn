@@ -5,7 +5,7 @@
 
 - 👯 Always open to **collaborations that make life better for animals, humans, or both** – let's do something meaningful together!
 
-- 🌱 Currently diving deep into **OSINT** (a fun mix of detective work and technology)
+- 🌱 Currently diving deep into LLM Technology
 
 - 📫 If you wanna chat or explore ideas, find me here: **[My Linktree](https://linktr.ee/Solaeyn)**
 
